@@ -13,7 +13,7 @@
 - 🌱 Currently improving **Java, JavaScript & ReactJS**
 - 🧠 Love solving problems and building real-world projects
 - ⚡ Always curious about new web technologies
-- 📫 Email: **your-email@example.com**
+- 📫 Email: **swainsaroj549@gmail.com**
 
 ---
 
